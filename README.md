@@ -1,4 +1,4 @@
-# Web Dev Journey 🚀
+# Web Dev Journey 
 
 Documenting everything I build and learn as I go from zero to full stack and beyond.
 
